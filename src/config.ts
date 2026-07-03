@@ -19,7 +19,7 @@ export const CONFIG = {
   MUSIC_URL: "/music.mp3",
 
   // 4. Appreciation Page Header
-  APPRECIATION_TITLE: "For Someone Truly Special ❤️",
+  APPRECIATION_TITLE: "For Someone Truly Special ❤️ Adam Fari(Jikan_fari)",
 
   // 5. Beautiful Appreciation Message (lines will be typed out or animated gracefully)
   APPRECIATION_MESSAGE: [
